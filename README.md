@@ -2,6 +2,9 @@
 My First C-Plus-Plus Project - Blackjack
 
 This was my first term Uni project.
+Visual Studio 12 Project.
+Updated to Visual Studio 15 Community.
+
 Created using the new Windows 8 Console features,
 it is an interactive simplified blackjack game.
 
