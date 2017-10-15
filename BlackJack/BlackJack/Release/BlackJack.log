@@ -1,0 +1,17 @@
+﻿  Card.cpp
+  Deck.cpp
+  Game.cpp
+  InfoMenu.cpp
+  Input.cpp
+  PlayState.cpp
+  MainMenu.cpp
+  Hand.cpp
+  main.cpp
+  ScreenHandler.cpp
+ScreenHandler.cpp(51): warning C4018: '<': signed/unsigned mismatch
+  ToDo.cpp
+  Generating code
+  All 281 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BlackJack.vcxproj -> E:\DrewTheAlien\Visual Studio Projects\BlackJack\Release\BlackJack.exe
+  BlackJack.vcxproj -> E:\DrewTheAlien\Visual Studio Projects\BlackJack\Release\BlackJack.pdb (Full PDB)
